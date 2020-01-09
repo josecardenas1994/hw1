@@ -1,0 +1,26 @@
+h1{
+   text-align: center;
+}
+
+img{
+ 
+    width: 200px;
+    -webkit-transform:rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    align
+}
+.cen{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-size: 40px;
+    border: 4px solid black;
+    background-color: grey;
+}
+b{text-align: center;}
