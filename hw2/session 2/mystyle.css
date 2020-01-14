@@ -1,0 +1,111 @@
+body{
+    font-family: 'Baskervville', serif;
+    background-color: darkgrey;
+    width: 100%;
+
+}
+
+h1{
+text-align: center;
+font-size: 40px;
+background-image: url(image/racecar.jpg);
+height: 300px;
+background-position: center center;
+background-size: cover;
+padding-top: 100px;
+color: rgb(255, 111, 1);
+text-shadow: 3px 2px black;
+letter-spacing: 5px;
+}
+
+.sectionTitle{
+background-color: darkslategray;
+font-size: 16px;
+    color:white;
+width: 80%;
+padding-left: 10px;
+
+
+}
+/* comment for css */
+h3{ 
+background-color: darkturquoise;
+font-size: 16px;
+border-bottom: 1px solid black;
+width: 100px;
+height: 30px;
+padding:5px;
+text-align: center;
+margin: opx;
+}
+
+h3 a:hover{
+    color:white;
+    font-size: 18px;
+    
+}
+
+#imgLocation{
+width:300px;
+border: 5px solid #ffffff;
+border-radius: 5px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+opacity: 0.9;
+}
+#imgLocation:hover{
+    transform: scale(1.1);
+}
+p{
+    color:black;
+    font-size: 14px;
+    text-align: left;
+
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.imgProd{
+    width:100%;
+    
+}
+
+.product{
+    width:30%;
+    background: white;
+    border:3px solid black;
+    padding: 5px;
+    text-align: center;
+    float: left;
+    margin:5px;
+
+}
+.abstract{
+    background: white;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    text-indent: 20px;
+}
+
+h2{
+    text-align: center;
+    font-size: 18px;
+border-bottom: 1px solid black;
+padding-bottom: 10px;
+
+}
+
+p.text{
+    text-align: center;
+    font-size: 18px;
+    word-spacing: 3px;
+    background: white;
+    padding: 5px;
+    text-indent: 10px;
+}

@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    background-color: white;
+   color: rgb(0, 16, 240);
+   opacity: 0.5;
+}
+body{
+    background-image: url(mopar.png);
+   
+    background-size: cover;
+}
+h2{
+    text-align: center;
+}
+h3{
+    border: 1px solid black;
+    padding: 2px;
+    display: inline;
+}
+
+h3 a:hover{
+    font-size: 20px;
+
+}
+h4{
+    text-align: center;
+}
+#hs{
+width: 200px;
+height: 200px;
+
+}
+div{
+    text-align: center;
+   
+}
+h2{
+    color: #ffffff ;
+}
+
+#im{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
